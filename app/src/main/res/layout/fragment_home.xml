@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeFragment">
+
+    <!-- App Bar at the top -->
+    <include
+        layout="@layout/layout_home_top_app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_scrollFlags="scroll|enterAlways" />
+
+    <!-- RecyclerView with bottom padding to prevent overlapping with BottomNavigationView -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewProfiles"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:layout_marginTop="70dp"
+    android:paddingBottom="52dp" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
