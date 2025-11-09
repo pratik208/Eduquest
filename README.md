@@ -67,28 +67,43 @@ This app works as a **peer-learning platform**, enabling students to interact, s
 
 # 📸 App Screenshots
 
-> Upload images to your GitHub `/images/` folder and replace the paths below.
+<table>
+  <tr>
+    <td align="center"><strong>Home</strong><br><br>
+      <img src="images/Home.jpg" width="250"/>
+    </td>
+    <td align="center"><strong>Login</strong><br><br>
+      <img src="images/Login.jpg" width="250"/>
+    </td>
+    <td align="center"><strong>Sign Up</strong><br><br>
+      <img src="images/Signup.jpg" width="250"/>
+    </td>
+  </tr>
 
-### 🔐 Login
-![Login](images/Login.jpg)
+  <tr>
+    <td align="center"><strong>Profile</strong><br><br>
+      <img src="images/Profile.jpg" width="250"/>
+    </td>
+    <td align="center"><strong>Edit Profile</strong><br><br>
+      <img src="images/Edit.jpg" width="250"/>
+    </td>
+    <td align="center"><strong>Company Dashboard</strong><br><br>
+      <img src="images/Company.jpg" width="250"/>
+    </td>
+  </tr>
 
-### 📝 Sign Up
-![Signup](images/Signup.jpg)
-
-### 👤 Profile
-![Profile](images/Profile.jpg)
-
-### ✏️ Edit Profile
-![Edit](images/Edit.jpg)
-
-### 🏢 Company Dashboard
-![Company](images/Company.jpg)
-
-### ➕ Add Company Questions
-![AddCompany](images/AddCompany.jpg)
-
-### 🎥 Add Video
-![AddVideo](images/AddVideo.jpg)
+  <tr>
+    <td align="center"><strong>Add Company Questions</strong><br><br>
+      <img src="images/AddCompany.jpg" width="250"/>
+    </td>
+    <td align="center"><strong>Add Video</strong><br><br>
+      <img src="images/AddVideo.jpg" width="250"/>
+    </td>
+    <td align="center"><strong>Video Upload Form</strong><br><br>
+      <img src="images/AddVideo.jpg" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
