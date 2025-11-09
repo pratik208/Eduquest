@@ -70,13 +70,13 @@ This app works as a **peer-learning platform**, enabling students to interact, s
 <table>
   <tr>
     <td align="center"><strong>Home</strong><br><br>
-      <img src="images/Home.jpg" width="250"/>
+      <img src="images/Signup.jpg" width="250"/>
     </td>
     <td align="center"><strong>Login</strong><br><br>
       <img src="images/Login.jpg" width="250"/>
     </td>
     <td align="center"><strong>Sign Up</strong><br><br>
-      <img src="images/Signup.jpg" width="250"/>
+      <img src="images/Home.png" width="250"/>
     </td>
   </tr>
 
